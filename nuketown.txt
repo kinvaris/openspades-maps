@@ -1,0 +1,11 @@
+name = 'Nuketown'
+version = '1.0'
+author = 'LinktersHD'
+description = 'Remake of the Call of Duty map Nuketown'
+extensions = {
+     'arena': True,
+     'arena_blue_spawn' : (263,187,59),
+     'arena_green_spawn' : (265,317,59),
+     'arena_gates': ((267,190,59),(260,314,60)),
+     'water_damage' : 100
+ }
